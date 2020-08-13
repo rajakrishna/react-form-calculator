@@ -1,0 +1,33 @@
+.app {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+}
+
+.calculator-wrapper {
+	width: 80%;
+	max-width: 300px;
+}
+
+.row {
+	display: flex;
+	width: 100%;
+}
+
+.t-text {
+	color: #293944;
+	font-weight: bold;
+	margin-left: 35px;
+}
+ul {
+	margin: 0;
+}
+
+li {
+	list-style: none;
+	width: 150px;
+	font-size: 17px;
+}
